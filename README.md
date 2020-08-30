@@ -6,7 +6,7 @@ The blockchain network that is used is hyperledger fabric, and Gin web frame wor
 The project was done as a 3 membered team, and i built the API and wrote the chain code for the Blockchain network.
 
 Please use this link for viewing the conplete project report- https://docs.google.com/document/d/1SBNzNkEEZeBvClE3vVwmKAovHJoliZsqB7HxxCp_IVY/edit?usp=sharing
-i highly recommend reading the report to understand the intricies of this project. i will not be attaching a video demo as the proejct report is fully detailed and attested that it works. 
+i highly recommend reading the report to understand the intricies of this project. i will not be attaching a video demo as the project report is fully detailed and attested that the project it works. 
 # steps to use:
 1. install Golang, verson 1.14 +
 2. install Gin
